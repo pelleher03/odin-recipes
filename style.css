@@ -1,0 +1,28 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: lightslategray;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+}
